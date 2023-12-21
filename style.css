@@ -91,7 +91,8 @@ h1 {
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 500px;
+  max-width: 100%;
+  width: 450px;
   height: auto;
   z-index: 999;
   transform: rotate(-25deg); 
